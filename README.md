@@ -19,6 +19,27 @@ Python LLM Chatbot
 
 yes, fine-tunning with own data and using ChatGPT API, using latent spaces and adding Context to the Model. Also some stuff on Integration with LangChain and Vercel SDK https://ai-sdk.dev/docs/introduction
 
+
+Sources:
+
+# LLM Hyperparameters
+
+https://symbl.ai/developers/blog/a-guide-to-llm-hyperparameters/
+
+https://medium.com/@rtales/tuning-parameters-to-train-llms-large-language-models-8861bbc11971
+
+
+## Performance:
+
+https://medium.com/@techresearchspace/what-is-quantization-in-llm-01ba61968a51
+
+## Fine Tuning
+
+https://medium.com/@dillipprasad60/qlora-explained-a-deep-dive-into-parametric-efficient-fine-tuning-in-large-language-models-llms-c1a4794b1766
+
+# Other
+
+
 https://vercel.com/blog/introducing-chat-sdk
 
 https://ai-sdk.dev/docs/reference/ai-sdk-ui/use-chat
